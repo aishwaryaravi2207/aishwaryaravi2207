@@ -35,7 +35,14 @@ location using Dijkstra’s algorithm</li>
     <img src="https://skillicons.dev/icons?i=java,py,html,css,bootstrap,js,jquery,nodejs,npm,react,maven,mysql,postgres,postman,codepen,eclipse,idea,vscode,aws,github,docker,wordpress" />
 </a>
 
+<h2>Professional Experience</h2>
 
+<h3>Connect with Me</h3>
+
+<li><a href="/">LinkedIn</a></li>
+<li><a href="/">Email</a></li>
+<li><a href="/">GitHub</a></li>
+<li><a href="/">Instagram</a></li>
 
 
 
