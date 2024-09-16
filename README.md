@@ -25,8 +25,8 @@ cricbuzz APIs and trained using LLMs</li>
   <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application:</a> Developed a house quest application to find the nearest housing option based on the selected
 location using Dijkstra’s algorithm</li>
 </ul>
-<h3>Credentials</h3>
 
+<h2>Credentials</h2>
 <img src="aws_cp_cred.jpg" width="250" height="250" alt="AWS Cloud Practitioner Credential"/>
 
 
