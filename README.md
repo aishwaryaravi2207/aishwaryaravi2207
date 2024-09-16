@@ -5,7 +5,7 @@
 <p>I am currently working as a graduate teaching assistant at Northeastern University. My Master’s coursework in Machine Learning and Natural Language Processing has sharpened my ability to work with cutting-edge technologies and develop data-driven solutions. I am passionate about leveraging these skills to drive transformative change, and I thrive on collaborating on innovative projects that push the boundaries of technology.</p>
 
 <ul>
-  <li>View my <a href="resume.jpg">Resume</a></li>
+  <li>View my <a href="resume_latest.jpg">Resume</a></li>
 </ul>
 
 <p>Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.</p>
