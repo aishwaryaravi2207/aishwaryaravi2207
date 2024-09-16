@@ -18,12 +18,21 @@
 <h3>Key Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/aishwaryaravi2207/jingle.git">Music Application with Recommendation System:</a> Developed a dynamic music app using Ajax and implemented the music recommendation feature
-using collaborative filtering</li>
-  <li><a href="/">Sports Article Generation:</a> Developed a web application that generates sports articles using commentary data collected from
-cricbuzz APIs and trained using LLMs</li>
-  <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application:</a> Developed a house quest application to find the nearest housing option based on the selected
-location using Dijkstra’s algorithm</li>
+  <li><a href="https://github.com/aishwaryaravi2207/jingle.git">Music Application with Recommendation System:</a>
+    <ul>
+      <li>Developed a dynamic music app using Ajax and implemented the music recommendation feature using collaborative filtering</li>
+      <li>Skills: SP, Servlets, HTML, CSS, JavaScript, Python, Flask</li>
+    </ul>
+  <li><a href="/">Sports Article Generation:</a>
+    <ul>
+      <li>Developed a web application that generates sports articles using commentary data collected from cricbuzz APIs and trained using LLMs</li>
+      <li>Skills: LLMS: Llama3 8b, Mistral 7B; Python, Flask, APIs, JSP, Servlets, HTML, CSS, JavaScript</li>
+    </ul>
+  <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application:</a>
+    <ul>
+      <li>Developed a house quest application to find the nearest housing option based on the selected location using Dijkstra’s algorithm</li>
+      <li>Skills: JSP, Servlets, HTML, CSS, JavaScript</li>
+    </ul>
 </ul>
 
 <h2>Credentials</h2>
