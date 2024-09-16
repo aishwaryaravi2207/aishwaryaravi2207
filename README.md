@@ -37,6 +37,41 @@ location using Dijkstra’s algorithm</li>
 
 <h2>Professional Experience</h2>
 
+<ul>
+  
+<li><i><h3>Graduate Teaching Assistant - Northeastern University, Portland, ME (Jan - 2024 to Present)</h3></i>
+ <ul>
+   <li>Courses: Programming Paradigm, Cloud Computing, Data Structures and Algorithm</li>
+   <li>Assessed course assignments and provided mentorship to 10+ student team projects, enhancing engagement and comprehension of Web Applications and Cloud Services</li>
+   <li>Skills: React • JavaScript • jQuery • Bootstrap • NodeJS • MySQL • MongoDB • PostgreSQL • Docker • Local Stack • Terraform</li>
+ </ul>
+</li>
+<br/>
+
+<li><i><h3>Security Delivery Senior Analyst - Accenture, Chennai, India (Aug - 2020 to Aug - 2023)</h3></i>
+ <ul>
+   <li>Developed SailPoint IAM for Accenture clients, including system architecture, user profiles, and access controls.</li>
+   <li>Expertise in data mapping, automation, and API integration.</li>
+   <li>Established robust access rules and designed optimized workflows and features for user management.</li>
+   <li>Provided documentation, demos, and effective communication for clients.</li>
+   <li>Skills: Java · Postman API · XML · JSON · Microsoft Visio · SailPoint IIQ · IdentityNow</li>
+ </ul>
+</li>
+<br/>
+
+<li><i><h3>Quality Engineering Analyst - Accenture, Chennai, India (Nov - 2016 to Jul - 2020)</h3></i>
+ <ul>
+   <li>Contributed to all phases of the testing lifecycle, including planning, script design, execution, and defect tracking, ensuring high-quality deliverables.</li>
+   <li>Created requirement traceability matrices to align testing with project objectives.</li>
+   <li>Prepared detailed test execution and defect reports for informed decision-making and issue resolution.</li>
+   <li>Developed training resources to equip team members with essential skills and knowledge.</li>
+   <li>Skills: Regression Testing · Smoke Testing · Integration Testing · Microsoft Excel · Performance Testing · Functional Testing · User Acceptance Testing · API Testing</li>
+ </ul>
+</li>
+<br/>
+
+</ul>
+
 <h3>Connect with Me</h3>
 
 <li><a href="https://www.linkedin.com/in/aishwaryaravi22/">LinkedIn</a></li>
