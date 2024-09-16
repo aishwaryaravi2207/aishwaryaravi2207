@@ -10,7 +10,8 @@
 - ⚡ Fun fact: ...
 
 <h3>Credentials</h3>
-- ![aws_cp_cred](https://github.com/user-attachments/assets/f19e4562-6deb-4e29-a95f-9827b5a9ad45)
+
+![image](https://github.com/user-attachments/assets/15df466f-def3-4e62-ac4a-f29d7043e1c5)
 
 
 <!---
