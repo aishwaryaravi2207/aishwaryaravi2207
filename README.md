@@ -29,6 +29,10 @@ location using Dijkstra’s algorithm</li>
 <h2>Credentials</h2>
 <img src="aws_cp_cred.jpg" width="250" height="250" alt="AWS Cloud Practitioner Credential"/>
 
+<h2>⚡ Languages and Technologies</h2>
+
+
+
 
 
 
