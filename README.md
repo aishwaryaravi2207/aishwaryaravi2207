@@ -39,10 +39,10 @@ location using Dijkstra’s algorithm</li>
 
 <h3>Connect with Me</h3>
 
-<li><a href="/">LinkedIn</a></li>
-<li><a href="/">Email</a></li>
-<li><a href="/">GitHub</a></li>
-<li><a href="/">Instagram</a></li>
+<li><a href="https://www.linkedin.com/in/aishwaryaravi22/">LinkedIn</a></li>
+<li><a href="mailto:ravichandran.ai@northeastern.edu">Email</a></li>
+<li><a href="https://github.com/aishwaryaravi2207">GitHub</a></li>
+<li><a href="https://www.instagram.com/aishwaryaravi_22/">Instagram</a></li>
 
 
 
