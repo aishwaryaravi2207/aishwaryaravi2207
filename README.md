@@ -1,5 +1,9 @@
 <h1>Hi there, I’m Aishwarya Ravichandran 👋</h1>
 <hr>
+<h2>About Me</h2>
+<p>I am a Full Stack Developer proficient in frontend technologies like HTML, CSS, and JavaScript and backend frameworks like Node.js, Spring Boot, and React. I have gathered six-plus years of experience at Accenture 
+  where I gained extensive experience in cyber security and quality Assurance. I'm also a certified AWS cloud practitioner</p>
+<p></p>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
