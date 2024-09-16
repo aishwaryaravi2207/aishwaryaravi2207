@@ -31,6 +31,11 @@ location using Dijkstra’s algorithm</li>
 
 <h2>⚡ Languages and Technologies</h2>
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,bootstrap,js,jquery,nodejs,npm,react,maven,mysql,postgres,postman,codepen,eclipse,idea,vscode,aws,github,docker,wordpress" />
+</a>
+
+
 
 
 
