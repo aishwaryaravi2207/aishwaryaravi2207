@@ -10,7 +10,7 @@
 
 <h3>Credentials</h3>
 
-![aws_cp_cred](https://github.com/user-attachments/assets/12d59794-425f-4c2d-8f2d-520f407bbbaa)
+<img src="aws_cp_cred.jpg" width="250" height="250" alt="AWS Cloud Practitioner Credential"/>
 
 
 
