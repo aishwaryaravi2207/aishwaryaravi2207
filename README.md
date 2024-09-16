@@ -4,6 +4,10 @@
 
 <p>My Master’s coursework in Machine Learning and Natural Language Processing has sharpened my ability to work with cutting-edge technologies and develop data-driven solutions. I am passionate about leveraging these skills to drive transformative change, and I thrive on collaborating on innovative projects that push the boundaries of technology.</p>
 
+<ul>
+  <li>View my <a href="/">Resume</a></li>
+</ul>
+
 <h3>Credentials</h3>
 
 ![aws_cp_cred](https://github.com/user-attachments/assets/12d59794-425f-4c2d-8f2d-520f407bbbaa)
