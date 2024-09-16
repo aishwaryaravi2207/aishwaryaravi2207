@@ -18,11 +18,11 @@
 <h3>Key Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/aishwaryaravi2207/jingle.git">Music Application with Recommendation System: </a>Developed a dynamic music app using Ajax and implemented the music recommendation feature
+  <li><a href="https://github.com/aishwaryaravi2207/jingle.git">Music Application with Recommendation System:</a> Developed a dynamic music app using Ajax and implemented the music recommendation feature
 using collaborative filtering</li>
-  <li><a href="/">Sports Article Generation: </a>Developed a web application that generates sports articles using commentary data collected from
+  <li><a href="/">Sports Article Generation:</a> Developed a web application that generates sports articles using commentary data collected from
 cricbuzz APIs and trained using LLMs</li>
-  <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application: </a>Developed a house quest application to find the nearest housing option based on the selected
+  <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application:</a> Developed a house quest application to find the nearest housing option based on the selected
 location using Dijkstra’s algorithm</li>
 </ul>
 <h3>Credentials</h3>
