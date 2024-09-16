@@ -11,7 +11,7 @@
 <p>Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.</p>
 
 <ul>
-<li>email:<a href="mailto:ravichandran.ai@northeastern.edu">ravichandran.ai@northeastern.edu</a></li>
+<li>email: <a href="mailto:ravichandran.ai@northeastern.edu">ravichandran.ai@northeastern.edu</a></li>
 <li>linkedin: https://www.linkedin.com/in/aishwaryaravi22/</li>
 </ul>
 
