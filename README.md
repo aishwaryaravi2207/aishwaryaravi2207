@@ -8,6 +8,13 @@
   <li>View my <a href="resume.jpg">Resume</a></li>
 </ul>
 
+<p>Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.</p>
+
+<ul>
+<li>email: parthasarathy.d@northeastern.edu</li>
+<li>linkedin: linkedin.com/in/parthadhruv</li>
+</ul>
+
 <h3>Credentials</h3>
 
 <img src="aws_cp_cred.jpg" width="250" height="250" alt="AWS Cloud Practitioner Credential"/>
