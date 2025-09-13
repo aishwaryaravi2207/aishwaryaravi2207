@@ -18,7 +18,7 @@
 <h3>Key Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/aishwaryaravi2207/jingle.git">Music Application with Recommendation System:</a>
+  <li><a href="https://github.com/aishwaryaravi2207/jingle/blob/main/README.md">Music Application with Recommendation System:</a>
     <ul>
       <li>Developed a dynamic music app using Ajax and implemented the music recommendation feature using collaborative filtering</li>
       <li>Skills: SP, Servlets, HTML, CSS, JavaScript, Python, Flask</li>
