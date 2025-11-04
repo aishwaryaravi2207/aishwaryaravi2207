@@ -1,99 +1,138 @@
-<h1>Hi there, I’m Aishwarya Ravichandran 👋</h1>
-<h3>About Me</h3>
-<p>I am a Full-Stack Developer proficient in frontend technologies such as HTML, CSS, and JavaScript, and backend frameworks like Node.js, Spring Boot, and React. I have over six years of experience at Accenture where I gained valuable cybersecurity and quality assurance expertise, working on complex projects that ensured secure and efficient software solutions. Additionally, I am a certified AWS Cloud Practitioner, equipping me with the skills to leverage cloud technologies in building scalable and robust applications.</p>
+# 👩‍💻 Aishwarya Ravichandran
 
-<p>I am currently working as a graduate teaching assistant at Northeastern University. My Master’s coursework in Machine Learning and Natural Language Processing has sharpened my ability to work with cutting-edge technologies and develop data-driven solutions. I am passionate about leveraging these skills to drive transformative change, and I thrive on collaborating on innovative projects that push the boundaries of technology.</p>
+**Software Engineer | Full Stack Developer | Identity & Access Management Specialist**
 
-<ul>
-  <li>View my <a href="resume_latest.jpg">Resume</a></li>
-</ul>
+📍 Portland, ME  
+📧 [ravichandran.ai@northeastern.edu](mailto:ravichandran.ai@northeastern.edu)  
+🔗 [LinkedIn](https://linkedin.com/in/aishwaryaravi22/) • [GitHub](https://github.com/aishwaryaravi2207)
 
-<p>Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.</p>
+---
 
-<ul>
-<li>email: <a href="mailto:ravichandran.ai@northeastern.edu">ravichandran.ai@northeastern.edu</a></li>
-<li>linkedin: https://www.linkedin.com/in/aishwaryaravi22/</li>
-</ul>
+## 🧭 About Me
 
-<h3>Key Projects</h3>
+I’m a passionate **Software Engineer** with over **6 years of experience** in **Full Stack Development** and **Identity & Access Management (IAM)**.  
+I enjoy building scalable, secure applications that bridge data, cloud, and user experience.  
+Currently pursuing my **Master’s in Computer Science at Northeastern University**, I’m exploring modern full-stack frameworks and cloud-native architectures.
 
-<ul>
-  <li><a href="https://github.com/aishwaryaravi2207/jingle/blob/main/README.md">Music Application with Recommendation System:</a>
-    <ul>
-      <li>Developed a dynamic music app using Ajax and implemented the music recommendation feature using collaborative filtering</li>
-      <li>Skills: SP, Servlets, HTML, CSS, JavaScript, Python, Flask</li>
-    </ul>
-  <li><a href="/">Sports Article Generation:</a>
-    <ul>
-      <li>Developed a web application that generates sports articles using commentary data collected from cricbuzz APIs and trained using LLMs</li>
-      <li>Skills: LLMS: Llama3 8b, Mistral 7B; Python, Flask, APIs, JSP, Servlets, HTML, CSS, JavaScript</li>
-    </ul>
-  <li><a href="https://github.com/aishwaryaravi2207/houseQuest.git">House Quest Application:</a>
-    <ul>
-      <li>Developed a house quest application to find the nearest housing option based on the selected location using Dijkstra’s algorithm</li>
-      <li>Skills: JSP, Servlets, HTML, CSS, JavaScript</li>
-    </ul>
-</ul>
+---
 
-<h2>Credentials</h2>
-<img src="aws_cp_cred.jpg" width="250" height="250" alt="AWS Cloud Practitioner Credential"/>
+## 🎓 Education
 
-<h2>⚡ Languages and Technologies</h2>
+🎓 **Northeastern University** — *M.S. in Computer Science*  
+📆 Sep 2023 – Dec 2025 | Portland, ME  
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,bootstrap,js,jquery,nodejs,npm,react,maven,mysql,postgres,postman,codepen,eclipse,idea,vscode,aws,github,docker,wordpress" />
-</a>
+🎓 **Anna University** — *B.E. in Computer Science and Engineering*  
+📆 Jun 2012 – Jun 2016 | Chennai, TN  
 
-<h2>Professional Experience</h2>
+---
 
-<ul>
-  
-<li><i><h3>Graduate Teaching Assistant - Northeastern University, Portland, ME (Jan - 2024 to Present)</h3></i>
- <ul>
-   <li>Courses: Programming Paradigm, Cloud Computing, Data Structures and Algorithm</li>
-   <li>Assessed course assignments and provided mentorship to 10+ student team projects, enhancing engagement and comprehension of Web Applications and Cloud Services</li>
-   <li>Skills: React • JavaScript • jQuery • Bootstrap • NodeJS • MySQL • MongoDB • PostgreSQL • Docker • Local Stack • Terraform</li>
- </ul>
-</li>
-<br/>
+## 🪪 Certification
 
-<li><i><h3>Security Delivery Senior Analyst - Accenture, Chennai, India (Aug - 2020 to Aug - 2023)</h3></i>
- <ul>
-   <li>Developed SailPoint IAM for Accenture clients, including system architecture, user profiles, and access controls.</li>
-   <li>Expertise in data mapping, automation, and API integration.</li>
-   <li>Established robust access rules and designed optimized workflows and features for user management.</li>
-   <li>Provided documentation, demos, and effective communication for clients.</li>
-   <li>Skills: Java · Postman API · XML · JSON · Microsoft Visio · SailPoint IIQ · IdentityNow</li>
- </ul>
-</li>
-<br/>
+- 🧾 **[AWS Certified Cloud Practitioner (2024)](https://www.credly.com/badges/9f8ac8aa-a807-4d4a-af79-d6d1160be181/linked_in_profile)**  
 
-<li><i><h3>Quality Engineering Analyst - Accenture, Chennai, India (Nov - 2016 to Jul - 2020)</h3></i>
- <ul>
-   <li>Contributed to all phases of the testing lifecycle, including planning, script design, execution, and defect tracking, ensuring high-quality deliverables.</li>
-   <li>Created requirement traceability matrices to align testing with project objectives.</li>
-   <li>Prepared detailed test execution and defect reports for informed decision-making and issue resolution.</li>
-   <li>Developed training resources to equip team members with essential skills and knowledge.</li>
-   <li>Skills: Regression Testing · Smoke Testing · Integration Testing · Microsoft Excel · Performance Testing · Functional Testing · User Acceptance Testing · API Testing</li>
- </ul>
-</li>
-<br/>
+---
 
-</ul>
+## 🧰 Technical Skills
 
-<h3>Connect with Me</h3>
+### 🖥️ Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<li><a href="https://www.linkedin.com/in/aishwaryaravi22/">LinkedIn</a></li>
-<li><a href="mailto:ravichandran.ai@northeastern.edu">Email</a></li>
-<li><a href="https://github.com/aishwaryaravi2207">GitHub</a></li>
-<li><a href="https://www.instagram.com/aishwaryaravi_22/">Instagram</a></li>
+### 🎨 Frontend Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt%203-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### ⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 
+### 🤖 Machine Learning & AI  
+![Python](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 🧠 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<!---
-aishwaryaravi2207/aishwaryaravi2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔐 Identity & Security  
+![SailPoint](https://img.shields.io/badge/SailPoint-1A73E8?style=for-the-badge&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![CyberArk](https://img.shields.io/badge/CyberArk-002D72?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 💻 **Full Stack Developer — Bluesonde**
+📆 *Jan 2025 – Jun 2025 | Portland, ME*  
+- Built full-stack web applications using **Vue.js/Nuxt 3** and **Node.js (TypeScript)** to enhance customer management and real-time data visualization.  
+- Integrated microprocessor-based sensor data collection with **Blues Modem API** and **Notehub** for live data transmission.  
+- Utilized **Docker** for containerized workflows, **Flyway** for database migrations, and **Nginx** for production deployment.
+
+---
+
+### 🛡️ **Identity and Access Management (IAM) Engineer — Accenture**
+📆 *Nov 2016 – Aug 2023 | Chennai, TN*  
+- Designed and maintained enterprise **SailPoint IIQ** and **IdentityNow** solutions for identity lifecycle automation.  
+- Integrated **Okta** for authentication and **CyberArk** for privileged access management.  
+- Automated provisioning workflows with **APIs** and **JSON**; created approval models and role-based access schemas.  
+- Collaborated across AD, PeopleSoft, WebEx, Jira, and Azure DevOps in **Agile** environments.  
+- Authored solution documents and led client demos; received **ACE Award (Q4 2022)** for excellence.
+
+---
+
+## 🧩 Projects
+
+### 🎵 [Music Application with Recommendation System](https://github.com/aishwaryaravi2207/jingle)
+Built a personalized music recommendation app integrating content-based filtering and playlist management.
+
+### 🏠 [House Quest Application](https://github.com/aishwaryaravi2207/houseQuest)
+Developed a responsive full-stack web app for property listings with advanced filtering and authentication.
+
+### 📰 [Sports Article Generation](https://github.com/snowclipsed/cricket_news)
+Created an NLP-based application to generate sports summaries using machine learning models.
+
+---
+
+## 🚀 Current Focus
+
+- Developing full-stack applications with **TypeScript**, **Vue/Nuxt**, and **Node.js**  
+- Expanding expertise in **Cybersecurity** and **Cloud-Native Systems**  
+- Exploring intersections of **AI** and **Web Engineering**
+
+---
+
+## 🤝 Let’s Connect!
+
+If you’re working on projects in **Full Stack Development**, **Cybersecurity**, or **AI-driven systems**,  
+I’d love to collaborate or contribute!  
+
+📫 [Reach me here → ravichandran.ai@northeastern.edu](mailto:ravichandran.ai@northeastern.edu)
+
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my repositories and connect with me on [LinkedIn](https://linkedin.com/in/aishwaryaravi22/).*
