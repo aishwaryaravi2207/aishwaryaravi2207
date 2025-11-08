@@ -2,7 +2,6 @@
 
 **Software Engineer | Full Stack Developer | Identity & Access Management Specialist**
 
-📍 Portland, ME  
 📧 [ravichandran.ai@northeastern.edu](mailto:ravichandran.ai@northeastern.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/aishwaryaravi22/) • [GitHub](https://github.com/aishwaryaravi2207)
 
