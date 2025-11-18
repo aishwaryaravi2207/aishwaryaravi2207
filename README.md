@@ -120,17 +120,6 @@ Created an NLP-based application to generate sports summaries using machine lear
 
 ---
 
-## 🚀 Current Focus
-
-- Developed a Java-based music streaming application with a machine learning recommendation engine to personalize user
-experience based on listening patterns and preferences.
-- Built an automated content generation system leveraging audio processing, speech recognition, and NLP to convert
-cricket match highlights into structured articles. 
-- Designed a property search application implementing Dijkstra’s shortest path algorithm in Java to optimize house hunting
-routes and minimize travel time.
-
----
-
 ## 🤝 Let’s Connect!
 
 If you’re working on projects in **Full Stack Development**, **Cybersecurity**, or **AI-driven systems**,  
