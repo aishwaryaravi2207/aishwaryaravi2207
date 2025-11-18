@@ -76,7 +76,6 @@ Currently pursuing my **Master’s in Computer Science at Northeastern Universit
 ![SailPoint](https://img.shields.io/badge/SailPoint-1A73E8?style=for-the-badge&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/CyberArk-002D72?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
