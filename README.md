@@ -90,19 +90,27 @@ Currently pursuing my **Master’s in Computer Science at Northeastern Universit
 
 ### 💻 **Full Stack Developer — Bluesonde**
 📆 *Jan 2025 – Jun 2025 | Portland, ME*  
-- Built full-stack web applications using **Vue.js/Nuxt 3** and **Node.js (TypeScript)** to enhance customer management and real-time data visualization.  
-- Integrated microprocessor-based sensor data collection with **Blues Modem API** and **Notehub** for live data transmission.  
-- Utilized **Docker** for containerized workflows, **Flyway** for database migrations, and **Nginx** for production deployment.
+- Architected full-stack web applications using Vue.js/Nuxt 3 and Node.js/TypeScript, streamlining customer management
+and IoT data visualization workflows.
+- Engineered embedded systems integration by programming microprocessors and implementing the Blues Modem API for
+real-time cellular data transmission to Notehub.
+- Optimized deployment pipelines through Docker containerization, Flyway database migrations, and Nginx production
+configuration.
 
 ---
 
 ### 🛡️ **Identity and Access Management (IAM) Engineer — Accenture**
 📆 *Nov 2016 – Aug 2023 | Chennai, TN*  
-- Designed and maintained enterprise **SailPoint IIQ** and **IdentityNow** solutions for identity lifecycle automation.  
-- Integrated **Okta** for authentication and **CyberArk** for privileged access management.  
-- Automated provisioning workflows with **APIs** and **JSON**; created approval models and role-based access schemas.  
-- Collaborated across AD, PeopleSoft, WebEx, Jira, and Azure DevOps in **Agile** environments.  
-- Authored solution documents and led client demos; received **ACE Award (Q4 2022)** for excellence.
+- Architected enterprise-scale SailPoint IIQ and IdentityNow solutions, orchestrating identity lifecycle management and
+RBAC for 50+ applications supporting 10,000+ users.
+- Enhanced security posture through Okta SSO and CyberArk PAM implementation, ensuring SOX and GDPR
+compliance.
+- Designed scalable IAM infrastructure with account schemas, identity profiles, and automated provisioning via REST
+APIs and JSON configurations.
+- Configured access governance framework, reducing access request fulfillment time by 40% through optimized approval
+workflows and automation.
+- Led Agile IAM projects integrating Active Directory, PeopleSoft, WebEx, Qualtrics, Jira, and Azure DevOps; awarded
+ACE Award (2022 Q4) for excellence.
 
 ---
 
@@ -121,9 +129,12 @@ Created an NLP-based application to generate sports summaries using machine lear
 
 ## 🚀 Current Focus
 
-- Developing full-stack applications with **TypeScript**, **Vue/Nuxt**, and **Node.js**  
-- Expanding expertise in **Cybersecurity** and **Cloud-Native Systems**  
-- Exploring intersections of **AI** and **Web Engineering**
+- Developed a Java-based music streaming application with a machine learning recommendation engine to personalize user
+experience based on listening patterns and preferences.
+- Built an automated content generation system leveraging audio processing, speech recognition, and NLP to convert
+cricket match highlights into structured articles. 
+- Designed a property search application implementing Dijkstra’s shortest path algorithm in Java to optimize house hunting
+routes and minimize travel time.
 
 ---
 
